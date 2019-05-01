@@ -1,2 +1,0 @@
-# gcs
-Glass Ecommerce Site

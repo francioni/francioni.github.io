@@ -1,0 +1,19 @@
+{
+  "name": "francioni.github.io",
+  "version": "1.0.0",
+  "description": "Francioni Web Site",
+  "main": "index.html",
+  "scripts": {
+    "deploy": "cp -R ../francioni-web-app/build/ . && git add -A && git commit -m 'updated code' && git push origin master"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/francioni/francioni.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/francioni/francioni.github.io/issues"
+  },
+  "homepage": "https://github.com/francioni/francioni.github.io#readme"
+}
