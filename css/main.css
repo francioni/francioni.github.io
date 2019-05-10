@@ -4169,7 +4169,7 @@ label {
 /* Cart Area css
 ============================================================================================ */
 .cart_area {
-  padding-top: 100px;
+  padding-top: 200px;
   padding-bottom: 100px; }
 
 .cart_inner .table thead tr th {
@@ -5791,3 +5791,18 @@ label {
     color: #ffba00; }
 
 /*# sourceMappingURL=main.css.map */
+
+
+
+
+
+
+
+
+
+
+
+
+.custom-banner-section-img {
+  border-radius: 15px 50px 30px;
+}
